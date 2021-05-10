@@ -9,7 +9,7 @@ headless: true
 weight: 10
 
 title: aaauuu ✏️ Blog Template
-subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
+subtitle: 'For [aaaaassssssss](https://www.google.com/)'
 
 design:
   background:
